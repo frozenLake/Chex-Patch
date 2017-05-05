@@ -837,9 +837,6 @@ WFALL4		frozenLake
 WOOD
 YELLOW
 
-
-
-
 ----FLATS----
 --Universal--
 BLOOD1		frozenLake
