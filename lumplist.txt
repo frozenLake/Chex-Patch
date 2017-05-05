@@ -1,5 +1,5 @@
-----PATCHES----
---Universal--
+----PATCHES---- (52/828)
+--Universal-- (36/309)
 AG128_1
 AG128_2
 AGB128_1
@@ -310,7 +310,7 @@ WLITA0
 WLITB0
 WLITC0
 
---Ultimate Doom/Doom 1--
+--Ultimate Doom/Doom 1-- (1/65)
 COMP01_1
 COMP01_5
 COMP01_6
@@ -377,7 +377,7 @@ WALL70_3
 WALL76_1
 WALL79_1
 
---Doom 2--
+--Doom 2-- (11/182)
 BFALL1		frozenLake
 BFALL2		frozenLake
 BFALL3		frozenLake
@@ -561,7 +561,7 @@ WOLF6
 WOLF7
 WOLF9
 
---TNT--
+--TNT-- (0/195)
 ALTAQUA
 ASPHALT
 BCRAT16
@@ -758,7 +758,7 @@ YELLITE2
 YELLITE3
 YELTNT
 
---Plutonia--
+--Plutonia-- (4/77)
 AROCK2
 AROCK3
 AROCK4
@@ -837,8 +837,8 @@ WFALL4		frozenLake
 WOOD
 YELLOW
 
-----FLATS----
---Universal--
+----FLATS---- (27/147)
+--Universal-- (27/107)
 BLOOD1		frozenLake
 BLOOD2		frozenLake
 BLOOD3		frozenLake
@@ -947,7 +947,7 @@ TLITE6_4
 TLITE6_5
 TLITE6_6
 
---Doom 2--
+--Doom 2-- (0/40)
 GRASS1
 GRASS2
 GRNLITE1
