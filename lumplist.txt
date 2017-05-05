@@ -1,3 +1,145 @@
+----SPRITES---- (78/138)
+--Doom-- (67/110)
+AMMO		Chex 3
+APBX
+APLS
+ARM1		Chex 3
+ARM2		Chex 3
+BAL1		Chex 3
+BAL2		Chex 3
+BAL7		Chex 3
+BAR1
+BEXP
+BFE1		Chex 3
+BFE2		Chex 3
+BFGF		Chex 3
+BFGG		Chex 3
+BFS1		Chex 3
+BFUG		Chex 3
+BKEY		Chex 3
+BLUD		Chex 3
+BON1		Chex 3
+BON2		Chex 3
+BOSF
+BOSS		frozenLake (recolor! replace!)
+BPAK		Chex 3
+BROK		Chex 3
+BSKU		Chex 3
+CAND
+CBRA
+CELL		Chex 3
+CELP		Chex 3
+CEYE
+CHGF		Chex 3
+CHGG		Chex 3
+CLIP		Chex 3
+COL1
+COL2
+COL3
+COL4
+COL5
+COL6
+COLU
+CSAW		Chex 3
+CYBR		Chex 3
+ELEC
+FCAN
+FSKU
+GOR1
+GOR2
+GOR3
+GOR4
+GOR5
+HEAD		Chex 3
+IFOG		Chex 3
+LAUN		Chex 3
+MANF
+MEDI		Chex 3
+MGUN		Chex 3
+MISF		Chex 3
+MISG		Chex 3
+MISL		Chex 3
+PINS
+PINV
+PISF		Chex 3
+PISG		Chex 3
+PLAS		Chex 3
+PLAY		frozenLake (recolored to fit the doom translation range, without slime changing color too)
+PLSE		Chex 3
+PLSF		Chex 3
+PLSG		Chex 3
+PLSS		Chex 3
+PMAP		Chex 3
+POL1
+POL2
+POL3
+POL4
+POL5
+POL5
+POSS		Chex 3
+PSTR
+PUFF
+PUNG		Chex 3
+PVIS		Chex 3
+RKEY		Chex 3
+ROCK		Chex 3
+RSKU		Chex 3
+SARG		Chex 3
+SAWG		Chex 3
+SBOX		Chex 3
+SHEL		Chex 3
+SHOT		Chex 3
+SHTF		Chex 3
+SHTG
+SKUL		Chex 3
+SMBT
+SMGT
+SMIT		Chex 3
+SMRT
+SOUL		Chex 3
+SPID		Chex 3
+SPOS		Chex 3
+STIM		Chex 3
+SUIT		Chex 3
+TBLU
+TFOG		Chex 3
+TGRN
+TRE1
+TRE2
+TRED
+TROO		Chex 3
+YKEY		Chex 3
+YSKU		Chex 3
+--Doom 2-- (11/28)
+BBRN
+BOS2		Chex 3
+BRS1
+BSPI		DeathEgg
+CPOS		Chex 3
+FATB
+FATT		Chex 3
+FBXP
+FIRE
+HDB1
+HDB2
+HDB3
+HDB4
+HDB5
+HDB6
+KEEN
+MEGA
+PAIN		frozenLake (recolor! replace!)
+POB1
+POB2
+SGN2		Chex 3
+SHT2		Arch (sprites are from the lost quest)
+SKEL		Chex 3
+SMT2		Chex 3
+SSWV		frozenLake (recolor of Biped, needs replaced)
+TLMP
+TLP2
+VILE		Slimeinator (its a recolor of the Generation 2 replacement, which was a recolor and minor edit. It still should be replaced, though.)
+
 ----PATCHES---- (52/828)
 --Universal-- (36/309)
 AG128_1
@@ -40,7 +182,7 @@ DOOR2_5
 DOOR3_4
 DOOR3_5
 DOOR3_6
-DOOR9_1		frozenLake (I think I might have remapped this from another wad)
+DOOR9_1		frozenLake (I think I might have remapped this from the lost quest)
 DOOR9_2		frozenLake (same as above)
 DOORTRAK
 DUCT1
