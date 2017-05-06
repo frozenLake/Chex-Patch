@@ -1,5 +1,5 @@
-----SPRITES---- (78/138)
---Doom-- (67/110)
+----SPRITES---- (94/138)
+--Doom-- (81/110)
 AMMO		Chex 3
 APBX
 APLS
@@ -29,7 +29,7 @@ CAND
 CBRA
 CELL		Chex 3
 CELP		Chex 3
-CEYE
+CEYE		Chex 3
 CHGF		Chex 3
 CHGG		Chex 3
 CLIP		Chex 3
@@ -39,7 +39,7 @@ COL3
 COL4
 COL5
 COL6
-COLU
+COLU		Chex 3
 CSAW		Chex 3
 CYBR		Chex 3
 ELEC
@@ -70,12 +70,12 @@ PLSF		Chex 3
 PLSG		Chex 3
 PLSS		Chex 3
 PMAP		Chex 3
-POL1
-POL2
+POL1		Chex 3
+POL2		Chex 3
 POL3
 POL4
 POL5
-POL5
+POL6		Chex 3
 POSS		Chex 3
 PSTR
 PUFF
@@ -90,27 +90,27 @@ SBOX		Chex 3
 SHEL		Chex 3
 SHOT		Chex 3
 SHTF		Chex 3
-SHTG
+SHTG		Chex 3
 SKUL		Chex 3
-SMBT
-SMGT
+SMBT		frozenLake
+SMGT		Chex 3
 SMIT		Chex 3
-SMRT
+SMRT		frozenLake
 SOUL		Chex 3
 SPID		Chex 3
 SPOS		Chex 3
 STIM		Chex 3
 SUIT		Chex 3
-TBLU
+TBLU		frozenLake
 TFOG		Chex 3
-TGRN
-TRE1
-TRE2
-TRED
+TGRN		Chex 3
+TRE1		Chex 3
+TRE2		Chex 3
+TRED		frozenLake
 TROO		Chex 3
 YKEY		Chex 3
 YSKU		Chex 3
---Doom 2-- (11/28)
+--Doom 2-- (13/28)
 BBRN
 BOS2		Chex 3
 BRS1
@@ -136,8 +136,8 @@ SHT2		Arch (sprites are from the lost quest)
 SKEL		Chex 3
 SMT2		Chex 3
 SSWV		frozenLake (recolor of Biped, needs replaced)
-TLMP
-TLP2
+TLMP		Chex 3
+TLP2		Chex 3
 VILE		Slimeinator (its a recolor of the Generation 2 replacement, which was a recolor and minor edit. It still should be replaced, though.)
 
 ----PATCHES---- (52/828)
