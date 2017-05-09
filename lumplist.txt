@@ -140,8 +140,8 @@ TLMP		Chex 3
 TLP2		Chex 3
 VILE		Slimeinator (its a recolor of the Generation 2 replacement, which was a recolor and minor edit. It still should be replaced, though.)
 
-----PATCHES---- (52/828)
---Universal-- (36/309)
+----PATCHES---- (49/828)
+--Universal-- (33/309)
 AG128_1
 AG128_2
 AGB128_1
@@ -221,9 +221,9 @@ RP2_4
 RSKY1
 RSKY2
 RSKY3
-RW10_1		Chex 3 (temp)
-RW10_2		Chex 3 (temp)
-RW10_3		Chex 3 (temp)
+RW10_1
+RW10_2
+RW10_3
 RW10_4
 RW1_1
 RW1_2
@@ -239,7 +239,7 @@ STEP03
 STEP04
 STEP05
 STEP06
-STEP07
+STEP07		frozenLake
 STEP08
 STEP09
 STEP10
@@ -429,7 +429,7 @@ WALL59_1
 WALL59_2
 WALL59_3
 WALL59_4
-WALL62_1	Chex 3 (temp)
+WALL62_1
 WALL62_2
 WALL63_1
 WALL64_2
