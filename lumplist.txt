@@ -1,8 +1,8 @@
-----SPRITES---- (94/138)
---Doom-- (81/110)
+----SPRITES---- (97/138)
+--Doom-- (83/110)
 AMMO		Chex 3
-APBX
-APLS
+APBX		frozenLake
+APLS		frozenLake
 ARM1		Chex 3
 ARM2		Chex 3
 BAL1		Chex 3
@@ -140,24 +140,17 @@ TLMP		Chex 3
 TLP2		Chex 3
 VILE		Slimeinator (its a recolor of the Generation 2 replacement, which was a recolor and minor edit. It still should be replaced, though.)
 
-----PATCHES---- (49/828)
---Universal-- (33/309)
+----PATCHES---- (48/800)
+--Universal-- (32/287)
 AG128_1
 AG128_2
 AGB128_1
-BCRATEL1	Chex 3
-BCRATEM1	Chex 3
-BCRATER1	Chex 3
-BFALL1		frozenLake
-BFALL2		frozenLake
-BFALL3		frozenLake
-BFALL4		frozenLake
+BCRATEL1		Chex 3
+BCRATEM1		Chex 3
+BCRATER1		Chex 3
 BLITA0
 BLITB0
 BLITC0
-BODIES
-BODY_1
-BODY_2
 COMP03_1
 COMP03_2
 COMP03_4
@@ -172,25 +165,21 @@ COMP04_8
 CYL1_1
 DOOR11_1
 DOOR12_1
-DOOR15_1
-DOOR15_2
-DOOR15_3
-DOOR15_4
 DOOR2_1
-DOOR2_4		Chex 3
+DOOR2_4			Chex 3
 DOOR2_5
 DOOR3_4
 DOOR3_5
 DOOR3_6
-DOOR9_1		frozenLake (I think I might have remapped this from the lost quest)
-DOOR9_2		frozenLake (same as above)
+DOOR9_1			frozenLake (I think I might have remapped this from the lost quest)
+DOOR9_2			frozenLake (same as above)
 DOORTRAK
 DUCT1
 EXIT1
 EXIT2
-GCRATEL1	frozenLake
-GCRATEM1	frozenLake
-GCRATER1	frozenLake
+GCRATEL1		frozenLake
+GCRATEM1		frozenLake
+GCRATER1		frozenLake
 HELL5_1
 HELL5_2
 HELL6_2
@@ -218,18 +207,7 @@ RP2_1
 RP2_2
 RP2_3
 RP2_4
-RSKY1
-RSKY2
-RSKY3
-RW10_1
-RW10_2
-RW10_3
-RW10_4
-RW1_1
-RW1_2
-RW1_3
-RW1_4
-SGCRATE2	frozenLake
+SGCRATE2		frozenLake
 SNAK7_1
 SNAK8_1
 SPINE3_1
@@ -239,7 +217,7 @@ STEP03
 STEP04
 STEP05
 STEP06
-STEP07		frozenLake
+STEP07			frozenLake
 STEP08
 STEP09
 STEP10
@@ -271,10 +249,8 @@ SW19_1
 SW19_2
 SW19_3
 SW19_4
-SW1S0		frozenLake
-SW1S1		frozenLake
-SW2S0		DeathEgg
-SW2S1		DeathEgg
+SW1S0			frozenLake
+SW1S1			frozenLake
 SW2_1
 SW2_2
 SW2_4
@@ -282,10 +258,12 @@ SW2_5
 SW2_6
 SW2_7
 SW2_8
-SW3S0		DeathEgg
-SW3S1		DeathEgg
-SW4S0		frozenLake
-SW4S1		frozenLake
+SW2S0			DeathEgg
+SW2S1			DeathEgg
+SW3S0			DeathEgg
+SW3S1			DeathEgg
+SW4S0			frozenLake
+SW4S1			frozenLake
 T14_3
 T14_5
 TOMW2_1
@@ -297,7 +275,7 @@ TP3_2
 TP7_1
 TP7_2
 TTALL1_2
-VGCRATE1	frozenLake
+VGCRATE1		frozenLake
 W101_1
 W101_2
 W102_1
@@ -327,9 +305,9 @@ W32_4
 W33_5
 W33_7
 W33_8
-W46_37		Chex 3
-W46_38		Chex 3
-W46_39		Chex 3
+W46_37			Chex 3
+W46_38			Chex 3
+W46_39			Chex 3
 W64B_1
 W64B_2
 W65B_1
@@ -370,9 +348,9 @@ WALL01_9
 WALL01_A
 WALL01_B
 WALL01_C
-WALL02_1	Chex 3 (temp)
-WALL02_2	Chex 3 (temp)
-WALL02_3	Chex 3 (temp)
+WALL02_1		Chex 3
+WALL02_2		Chex 3
+WALL02_3		Chex 3
 WALL03_1
 WALL03_4
 WALL03_7
@@ -385,7 +363,7 @@ WALL04_9
 WALL04_A
 WALL04_B
 WALL04_C
-WALL05_2
+WALL05_2		frozenLake
 WALL22_1
 WALL23_1
 WALL23_2
@@ -429,8 +407,8 @@ WALL59_1
 WALL59_2
 WALL59_3
 WALL59_4
-WALL62_1
-WALL62_2
+WALL62_1		frozenLake
+WALL62_2		frozenLake
 WALL63_1
 WALL64_2
 WALL69_4
@@ -445,9 +423,9 @@ WALL78_1
 WALL97_1
 WALL97_2
 WALL97_3
-WARNA0		DeathEgg
-WARNB0		DeathEgg
-WLA128_1	(i forgot. its probably temporary anyway)
+WARNA0			DeathEgg
+WARNB0			DeathEgg
+WLA128_1		frozenLake
 WLITA0
 WLITB0
 WLITC0
@@ -509,7 +487,7 @@ WALL21_3
 WALL21_5
 WALL24_1
 WALL51_1
-WALL57_1	(okay I forgot where the variation of the brick came from, but I did paste an edit of Chex 3's nukage texture on it)
+WALL57_1		frozenLake
 WALL57_2
 WALL57_3
 WALL57_4
@@ -519,11 +497,11 @@ WALL70_3
 WALL76_1
 WALL79_1
 
---Doom 2-- (11/182)
-BFALL1		frozenLake
-BFALL2		frozenLake
-BFALL3		frozenLake
-BFALL4		frozenLake
+--Doom 2-- (9/182)
+BFALL1			frozenLake
+BFALL2			frozenLake
+BFALL3			frozenLake
+BFALL4			frozenLake
 BODIES
 BODY_1
 BODY_2
@@ -538,9 +516,9 @@ RW1_1
 RW1_2
 RW1_3
 RW1_4
-RW10_1		Chex 3 (temp)
-RW10_2		Chex 3 (temp)
-RW10_3		Chex 3 (temp)
+RW10_1			Chex 3
+RW10_2
+RW10_3
 RW10_4
 RW11_2
 RW11_3
@@ -683,10 +661,10 @@ RWDMON5
 RWDMON7
 RWDMON8
 RWDMON9
-SFALL1		frozenLake
-SFALL2		frozenLake
-SFALL3		frozenLake
-SFALL4		frozenLake
+SFALL1			frozenLake
+SFALL2			frozenLake
+SFALL3			frozenLake
+SFALL4			frozenLake
 WOLF1
 WOLF10
 WOLF11
@@ -703,11 +681,11 @@ WOLF6
 WOLF7
 WOLF9
 
---TNT-- (0/195)
+--TNT-- (2/195)
 ALTAQUA
 ASPHALT
-BCRAT16
-BCRAT32
+BCRAT16			frozenLake
+BCRAT32			frozenLake
 BIGMURAL
 BIGWALL
 BLOD128A
@@ -900,7 +878,7 @@ YELLITE2
 YELLITE3
 YELTNT
 
---Plutonia-- (4/77)
+--Plutonia-- (4/71)
 AROCK2
 AROCK3
 AROCK4
@@ -925,8 +903,6 @@ DIRBRI2
 FIREBLU1
 FIREBLU2
 GRATE
-HELL6_1
-HELL8_3
 MARBLE
 MC1
 MC10
@@ -958,7 +934,6 @@ POISON
 RAILING
 REDROCK
 ROCK
-SKY1
 SKY2A
 SKY2B
 SKY2C
@@ -969,9 +944,6 @@ SW1SKULL
 SW2SKULL
 TILE
 VINES1
-W109_1
-W109_2
-W110_1
 WFALL1		frozenLake
 WFALL2		frozenLake
 WFALL3		frozenLake
