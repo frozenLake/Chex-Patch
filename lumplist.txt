@@ -140,8 +140,8 @@ TLMP		Chex 3
 TLP2		Chex 3
 VILE		Slimeinator (its a recolor of the Generation 2 replacement, which was a recolor and minor edit. It still should be replaced, though.)
 
-----PATCHES---- (48/800)
---Universal-- (32/287)
+----PATCHES---- (75/800)
+--Universal-- (59/287)
 AG128_1
 AG128_2
 AGB128_1
@@ -222,33 +222,33 @@ STEP08
 STEP09
 STEP10
 SUPPORT2
-SW11_1
-SW11_2
-SW11_4
-SW12_1
-SW12_2
-SW12_4
-SW12_5
-SW15_1
-SW15_3
-SW15_4
-SW15_6
-SW16_1
-SW16_2
-SW16_4
-SW16_6
-SW17_1
-SW17_2
-SW17_3
-SW17_4
-SW17_5
-SW17_6
-SW18_5
-SW18_7
-SW19_1
-SW19_2
-SW19_3
-SW19_4
+SW11_1			frozenLake
+SW11_2			frozenLake
+SW11_4			frozenLake
+SW12_1			frozenLake
+SW12_2			frozenLake
+SW12_4			frozenLake
+SW12_5			frozenLake
+SW15_1			frozenLake
+SW15_3			frozenLake
+SW15_4			frozenLake
+SW15_6			frozenLake
+SW16_1			frozenLake
+SW16_2			frozenLake
+SW16_4			frozenLake
+SW16_6			frozenLake
+SW17_1			frozenLake
+SW17_2			frozenLake
+SW17_3			frozenLake
+SW17_4			frozenLake
+SW17_5			frozenLake
+SW17_6			frozenLake
+SW18_5			frozenLake
+SW18_7			frozenLake
+SW19_1			frozenLake
+SW19_2			frozenLake
+SW19_3			frozenLake
+SW19_4			frozenLake
 SW1S0			frozenLake
 SW1S1			frozenLake
 SW2_1
