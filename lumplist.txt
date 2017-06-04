@@ -140,8 +140,8 @@ TLMP		Chex 3
 TLP2		Chex 3
 VILE		Slimeinator (its a recolor of the Generation 2 replacement, which was a recolor and minor edit. It still should be replaced, though.)
 
-----PATCHES---- (75/800)
---Universal-- (59/287)
+----PATCHES---- (92/800)
+--Universal-- (67/287)
 AG128_1
 AG128_2
 AGB128_1
@@ -153,14 +153,14 @@ BLITB0
 BLITC0
 COMP03_1
 COMP03_2
-COMP03_4
-COMP03_5
-COMP03_8
-COMP04_1
-COMP04_2
-COMP04_5
-COMP04_6
-COMP04_7
+COMP03_4		frozenLake
+COMP03_5		Chex 3
+COMP03_8		Chex 3
+COMP04_1		Chex 3
+COMP04_2		Chex 3
+COMP04_5		Chex 3
+COMP04_6		Chex 3
+COMP04_7		Chex 3
 COMP04_8
 CYL1_1
 DOOR11_1
@@ -430,21 +430,21 @@ WLITA0
 WLITB0
 WLITC0
 
---Ultimate Doom/Doom 1-- (1/65)
+--Ultimate Doom/Doom 1-- (10/65)
 COMP01_1
 COMP01_5
 COMP01_6
-COMP02_1
-COMP02_2
-COMP02_3
-COMP02_4
-COMP02_5
-COMP02_6
-COMP02_7
-COMP02_8
+COMP02_1		Chex 3
+COMP02_2		Chex 3
+COMP02_3		Chex 3
+COMP02_4		Chex 3
+COMP02_5		Chex 3
+COMP02_6		Chex 3
+COMP02_7		Chex 3
+COMP02_8		Chex 3
 COMP03_6
 COMP03_7
-COMP03_9
+COMP03_9		Chex 3
 COMP1B_4
 COMP1C_6
 DOOR2_3
@@ -951,8 +951,8 @@ WFALL4		frozenLake
 WOOD
 YELLOW
 
-----FLATS---- (27/147)
---Universal-- (27/107)
+----FLATS---- (29/147)
+--Universal-- (29/107)
 BLOOD1		frozenLake
 BLOOD2		frozenLake
 BLOOD3		frozenLake
@@ -1037,8 +1037,8 @@ FWATER4		Chex 3
 F_SKY1
 GATE1
 GATE2
-GATE3
-GATE4
+GATE3		frozenLake
+GATE4		frozenLake
 LAVA1		frozenLake
 LAVA2		frozenLake
 LAVA3		frozenLake
