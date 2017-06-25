@@ -497,7 +497,7 @@ WALL70_3
 WALL76_1
 WALL79_1
 
---Doom 2-- (9/182)
+--Doom 2-- (10/182)
 BFALL1			frozenLake
 BFALL2			frozenLake
 BFALL3			frozenLake
@@ -516,8 +516,8 @@ RW1_1
 RW1_2
 RW1_3
 RW1_4
-RW10_1			Chex 3
-RW10_2
+RW10_1			frozenLake
+RW10_2			frozenLake
 RW10_3
 RW10_4
 RW11_2
