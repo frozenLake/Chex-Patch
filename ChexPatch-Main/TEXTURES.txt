@@ -1,0 +1,947 @@
+
+
+Sprite "BOSSA1", 100, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 50, 106
+	Patch "BOSSA1", 0, 0
+}
+
+Sprite "BOSSA2A8", 71, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 35, 106
+	Patch "BOSSA2A8", 0, 0
+}
+
+Sprite "BOSSA3A7", 72, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 36, 106
+	Patch "BOSSA3A7", 0, 0
+}
+
+Sprite "BOSSA4A6", 76, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 38, 106
+	Patch "BOSSA4A6", 0, 0
+}
+
+Sprite "BOSSA5", 97, 109
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 48, 105
+	Patch "BOSSA5", 0, 0
+}
+
+Sprite "BOSSB1", 94, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 47, 106
+	Patch "BOSSB1", 0, 0
+}
+
+Sprite "BOSSB2B8", 65, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 32, 106
+	Patch "BOSSB2B8", 0, 0
+}
+
+Sprite "BOSSB3B7", 63, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 31, 106
+	Patch "BOSSB3B7", 0, 0
+}
+
+Sprite "BOSSB4B6", 85, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 42, 106
+	Patch "BOSSB4B6", 0, 0
+}
+
+Sprite "BOSSB5", 91, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 45, 106
+	Patch "BOSSB5", 0, 0
+}
+
+Sprite "BOSSC1", 99, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 49, 106
+	Patch "BOSSC1", 0, 0
+}
+
+Sprite "BOSSC2C8", 68, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 34, 106
+	Patch "BOSSC2C8", 0, 0
+}
+
+Sprite "BOSSC3C7", 72, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 36, 106
+	Patch "BOSSC3C7", 0, 0
+}
+
+Sprite "BOSSC4C6", 72, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 36, 106
+	Patch "BOSSC4C6", 0, 0
+}
+
+Sprite "BOSSC5", 94, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 47, 106
+	Patch "BOSSC5", 0, 0
+}
+
+Sprite "BOSSD1", 94, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 47, 106
+	Patch "BOSSD1", 0, 0
+}
+
+Sprite "BOSSD2D8", 93, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 46, 106
+	Patch "BOSSD2D8", 0, 0
+}
+
+Sprite "BOSSD3D7", 66, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 33, 106
+	Patch "BOSSD3D7", 0, 0
+}
+
+Sprite "BOSSD4D6", 67, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 33, 106
+	Patch "BOSSD4D6", 0, 0
+}
+
+Sprite "BOSSD5", 91, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 45, 106
+	Patch "BOSSD5", 0, 0
+}
+
+Sprite "BOSSE1", 87, 109
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 43, 105
+	Patch "BOSSE1", 0, 0
+}
+
+Sprite "BOSSE2", 118, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 59, 106
+	Patch "BOSSE2", 0, 0
+}
+
+Sprite "BOSSE3", 97, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 48, 106
+	Patch "BOSSE3", 0, 0
+}
+
+Sprite "BOSSE4", 77, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 38, 106
+	Patch "BOSSE4", 0, 0
+}
+
+Sprite "BOSSE5", 89, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 44, 106
+	Patch "BOSSE5", 0, 0
+}
+
+Sprite "BOSSE6", 98, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 49, 106
+	Patch "BOSSE6", 0, 0
+}
+
+Sprite "BOSSE7", 99, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 49, 106
+	Patch "BOSSE7", 0, 0
+}
+
+Sprite "BOSSE8", 74, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 37, 106
+	Patch "BOSSE8", 0, 0
+}
+
+Sprite "BOSSF1", 91, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 45, 106
+	Patch "BOSSF1", 0, 0
+}
+
+Sprite "BOSSF2", 118, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 59, 106
+	Patch "BOSSF2", 0, 0
+}
+
+Sprite "BOSSF3", 99, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 49, 106
+	Patch "BOSSF3", 0, 0
+}
+
+Sprite "BOSSF4", 82, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 41, 106
+	Patch "BOSSF4", 0, 0
+}
+
+Sprite "BOSSF5", 96, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 48, 106
+	Patch "BOSSF5", 0, 0
+}
+
+Sprite "BOSSF6", 99, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 49, 106
+	Patch "BOSSF6", 0, 0
+}
+
+Sprite "BOSSF7", 100, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 50, 106
+	Patch "BOSSF7", 0, 0
+}
+
+Sprite "BOSSF8", 76, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 38, 106
+	Patch "BOSSF8", 0, 0
+}
+
+Sprite "BOSSG1", 90, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 45, 106
+	Patch "BOSSG1", 0, 0
+}
+
+Sprite "BOSSG2", 129, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 64, 106
+	Patch "BOSSG2", 0, 0
+}
+
+Sprite "BOSSG3", 118, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 59, 106
+	Patch "BOSSG3", 0, 0
+}
+
+Sprite "BOSSG4", 89, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 44, 106
+	Patch "BOSSG4", 0, 0
+}
+
+Sprite "BOSSG5", 98, 109
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 49, 105
+	Patch "BOSSG5", 0, 0
+}
+
+Sprite "BOSSG6", 117, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 58, 106
+	Patch "BOSSG6", 0, 0
+}
+
+Sprite "BOSSG7", 120, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 60, 106
+	Patch "BOSSG7", 0, 0
+}
+
+Sprite "BOSSG8", 93, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 46, 106
+	Patch "BOSSG8", 0, 0
+}
+
+Sprite "BOSSH1", 100, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 50, 106
+	Patch "BOSSH1", 0, 0
+}
+
+Sprite "BOSSH2", 76, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 38, 106
+	Patch "BOSSH2", 0, 0
+}
+
+Sprite "BOSSH3", 72, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 36, 106
+	Patch "BOSSH3", 0, 0
+}
+
+Sprite "BOSSH4", 76, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 38, 106
+	Patch "BOSSH4", 0, 0
+}
+
+Sprite "BOSSH5", 100, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 50, 106
+	Patch "BOSSH5", 0, 0
+}
+
+Sprite "BOSSH6", 76, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 38, 106
+	Patch "BOSSH6", 0, 0
+}
+
+Sprite "BOSSH7", 72, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 36, 106
+	Patch "BOSSH7", 0, 0
+}
+
+Sprite "BOSSH8", 76, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 38, 106
+	Patch "BOSSH8", 0, 0
+}
+
+Sprite "BOSSI0", 105, 109
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 52, 105
+	Patch "BOSSI0", 0, 0
+}
+
+Sprite "BOSSJ0", 107, 114
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 53, 110
+	Patch "BOSSJ0", 0, 0
+}
+
+Sprite "BOSSK0", 113, 120
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 56, 116
+	Patch "BOSSK0", 0, 0
+}
+
+Sprite "BOSSL0", 83, 75
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 41, 71
+	Patch "BOSSL0", 0, 0
+}
+
+Sprite "BOSSM0", 42, 30
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 21, 26
+	Patch "BOSSM0", 0, 0
+}
+
+Sprite "BOSSN0", 30, 30
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 15, 26
+	Patch "BOSSN0", 0, 0
+}
+
+Sprite "BOSSO0", 22, 25
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 11, 21
+	Patch "BOSSO0", 0, 0
+}
+
+Sprite "BOS2A1", 100, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 50, 106
+	Patch "BOS2A1", 0, 0
+}
+
+Sprite "BOS2A2A8", 71, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 35, 106
+	Patch "BOS2A2A8", 0, 0
+}
+
+Sprite "BOS2A3A7", 72, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 36, 106
+	Patch "BOS2A3A7", 0, 0
+}
+
+Sprite "BOS2A4A6", 76, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 38, 106
+	Patch "BOS2A4A6", 0, 0
+}
+
+Sprite "BOS2A5", 97, 109
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 48, 105
+	Patch "BOS2A5", 0, 0
+}
+
+Sprite "BOS2B1", 94, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 47, 106
+	Patch "BOS2B1", 0, 0
+}
+
+Sprite "BOS2B2B8", 65, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 32, 106
+	Patch "BOS2B2B8", 0, 0
+}
+
+Sprite "BOS2B3B7", 63, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 31, 106
+	Patch "BOS2B3B7", 0, 0
+}
+
+Sprite "BOS2B4B6", 85, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 42, 106
+	Patch "BOS2B4B6", 0, 0
+}
+
+Sprite "BOS2B5", 91, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 45, 106
+	Patch "BOS2B5", 0, 0
+}
+
+Sprite "BOS2C1", 99, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 49, 106
+	Patch "BOS2C1", 0, 0
+}
+
+Sprite "BOS2C2C8", 68, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 34, 106
+	Patch "BOS2C2C8", 0, 0
+}
+
+Sprite "BOS2C3C7", 72, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 36, 106
+	Patch "BOS2C3C7", 0, 0
+}
+
+Sprite "BOS2C4C6", 72, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 36, 106
+	Patch "BOS2C4C6", 0, 0
+}
+
+Sprite "BOS2C5", 94, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 47, 106
+	Patch "BOS2C5", 0, 0
+}
+
+Sprite "BOS2D1", 94, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 47, 106
+	Patch "BOS2D1", 0, 0
+}
+
+Sprite "BOS2D2D8", 93, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 46, 106
+	Patch "BOS2D2D8", 0, 0
+}
+
+Sprite "BOS2D3D7", 66, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 33, 106
+	Patch "BOS2D3D7", 0, 0
+}
+
+Sprite "BOS2D4D6", 67, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 33, 106
+	Patch "BOS2D4D6", 0, 0
+}
+
+Sprite "BOS2D5", 91, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 45, 106
+	Patch "BOS2D5", 0, 0
+}
+
+Sprite "BOS2E1", 87, 109
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 43, 105
+	Patch "BOS2E1", 0, 0
+}
+
+Sprite "BOS2E2", 118, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 59, 106
+	Patch "BOS2E2", 0, 0
+}
+
+Sprite "BOS2E3", 97, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 48, 106
+	Patch "BOS2E3", 0, 0
+}
+
+Sprite "BOS2E4", 77, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 38, 106
+	Patch "BOS2E4", 0, 0
+}
+
+Sprite "BOS2E5", 89, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 44, 106
+	Patch "BOS2E5", 0, 0
+}
+
+Sprite "BOS2E6", 98, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 49, 106
+	Patch "BOS2E6", 0, 0
+}
+
+Sprite "BOS2E7", 99, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 49, 106
+	Patch "BOS2E7", 0, 0
+}
+
+Sprite "BOS2E8", 74, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 37, 106
+	Patch "BOS2E8", 0, 0
+}
+
+Sprite "BOS2F1", 91, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 45, 106
+	Patch "BOS2F1", 0, 0
+}
+
+Sprite "BOS2F2", 118, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 59, 106
+	Patch "BOS2F2", 0, 0
+}
+
+Sprite "BOS2F3", 99, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 49, 106
+	Patch "BOS2F3", 0, 0
+}
+
+Sprite "BOS2F4", 82, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 41, 106
+	Patch "BOS2F4", 0, 0
+}
+
+Sprite "BOS2F5", 96, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 48, 106
+	Patch "BOS2F5", 0, 0
+}
+
+Sprite "BOS2F6", 99, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 49, 106
+	Patch "BOS2F6", 0, 0
+}
+
+Sprite "BOS2F7", 100, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 50, 106
+	Patch "BOS2F7", 0, 0
+}
+
+Sprite "BOS2F8", 76, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 38, 106
+	Patch "BOS2F8", 0, 0
+}
+
+Sprite "BOS2G1", 90, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 45, 106
+	Patch "BOS2G1", 0, 0
+}
+
+Sprite "BOS2G2", 129, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 64, 106
+	Patch "BOS2G2", 0, 0
+}
+
+Sprite "BOS2G3", 118, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 59, 106
+	Patch "BOS2G3", 0, 0
+}
+
+Sprite "BOS2G4", 89, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 44, 106
+	Patch "BOS2G4", 0, 0
+}
+
+Sprite "BOS2G5", 98, 109
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 49, 105
+	Patch "BOS2G5", 0, 0
+}
+
+Sprite "BOS2G6", 117, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 58, 106
+	Patch "BOS2G6", 0, 0
+}
+
+Sprite "BOS2G7", 120, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 60, 106
+	Patch "BOS2G7", 0, 0
+}
+
+Sprite "BOS2G8", 93, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 46, 106
+	Patch "BOS2G8", 0, 0
+}
+
+Sprite "BOS2H1", 100, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 50, 106
+	Patch "BOS2H1", 0, 0
+}
+
+Sprite "BOS2H2", 76, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 38, 106
+	Patch "BOS2H2", 0, 0
+}
+
+Sprite "BOS2H3", 72, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 36, 106
+	Patch "BOS2H3", 0, 0
+}
+
+Sprite "BOS2H4", 76, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 38, 106
+	Patch "BOS2H4", 0, 0
+}
+
+Sprite "BOS2H5", 100, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 50, 106
+	Patch "BOS2H5", 0, 0
+}
+
+Sprite "BOS2H6", 76, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 38, 106
+	Patch "BOS2H6", 0, 0
+}
+
+Sprite "BOS2H7", 72, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 36, 106
+	Patch "BOS2H7", 0, 0
+}
+
+Sprite "BOS2H8", 76, 110
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 38, 106
+	Patch "BOS2H8", 0, 0
+}
+
+Sprite "BOS2I0", 105, 109
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 52, 105
+	Patch "BOS2I0", 0, 0
+}
+
+Sprite "BOS2J0", 107, 114
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 53, 110
+	Patch "BOS2J0", 0, 0
+}
+
+Sprite "BOS2K0", 113, 120
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 56, 116
+	Patch "BOS2K0", 0, 0
+}
+
+Sprite "BOS2L0", 83, 75
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 41, 71
+	Patch "BOS2L0", 0, 0
+}
+
+Sprite "BOS2M0", 42, 30
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 21, 26
+	Patch "BOS2M0", 0, 0
+}
+
+Sprite "BOS2N0", 30, 30
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 15, 26
+	Patch "BOS2N0", 0, 0
+}
+
+Sprite "BOS2O0", 22, 25
+{
+	XScale 1.250
+	YScale 1.250
+	Offset 11, 21
+	Patch "BOS2O0", 0, 0
+}
+
+// End of texture definitions

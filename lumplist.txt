@@ -140,7 +140,7 @@ TLMP		Chex 3
 TLP2		Chex 3
 VILE		Slimeinator (its a recolor of the Generation 2 replacement, which was a recolor and minor edit. It still should be replaced, though.)
 
-----PATCHES---- (99/800)
+----PATCHES---- (101/800)
 --Universal-- (73/287)
 AG128_1
 AG128_2
@@ -497,7 +497,7 @@ WALL70_3
 WALL76_1
 WALL79_1
 
---Doom 2-- (10/182)
+--Doom 2-- (12/182)
 BFALL1			frozenLake
 BFALL2			frozenLake
 BFALL3			frozenLake
@@ -505,8 +505,8 @@ BFALL4			frozenLake
 BODIES
 BODY_1
 BODY_2
-DOOR15_1
-DOOR15_2
+DOOR15_1		frozenLake
+DOOR15_2		frozenLake
 DOOR15_3
 DOOR15_4
 RSKY1
