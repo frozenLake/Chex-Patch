@@ -1,5 +1,5 @@
-----SPRITES---- (97/138)
---Doom-- (83/110)
+----SPRITES---- (104/138)
+--Doom-- (91/110)
 AMMO		Chex 3
 APBX		frozenLake
 APLS		frozenLake
@@ -8,8 +8,8 @@ ARM2		Chex 3
 BAL1		Chex 3
 BAL2		Chex 3
 BAL7		Chex 3
-BAR1
-BEXP
+BAR1		Chex 3
+BEXP		Chex 3
 BFE1		Chex 3
 BFE2		Chex 3
 BFGF		Chex 3
@@ -43,13 +43,13 @@ COLU		Chex 3
 CSAW		Chex 3
 CYBR		Chex 3
 ELEC
-FCAN
+FCAN		Chex 3
 FSKU
-GOR1
-GOR2
-GOR3
-GOR4
-GOR5
+GOR1		Chex 3
+GOR2		Chex 3
+GOR3		Chex 3
+GOR4		Chex 3
+GOR5		frozenLake (resize)
 HEAD		Chex 3
 IFOG		Chex 3
 LAUN		Chex 3
@@ -140,8 +140,8 @@ TLMP		Chex 3
 TLP2		Chex 3
 VILE		Slimeinator (its a recolor of the Generation 2 replacement, which was a recolor and minor edit. It still should be replaced, though.)
 
-----PATCHES---- (101/800)
---Universal-- (73/287)
+----PATCHES---- (103/800)
+--Universal-- (75/287)
 AG128_1
 AG128_2
 AGB128_1
@@ -175,8 +175,8 @@ DOOR9_1			frozenLake (I think I might have remapped this from the lost quest)
 DOOR9_2			frozenLake (same as above)
 DOORTRAK
 DUCT1
-EXIT1
-EXIT2
+EXIT1			Boingo
+EXIT2			Boingo
 GCRATEL1		frozenLake
 GCRATEM1		frozenLake
 GCRATER1		frozenLake
