@@ -140,8 +140,8 @@ TLMP		Chex 3
 TLP2		Chex 3
 VILE		Slimeinator (its a recolor of the Generation 2 replacement, which was a recolor and minor edit. It still should be replaced, though.)
 
-----PATCHES---- (103/800)
---Universal-- (75/287)
+----PATCHES---- (108/800)
+--Universal-- (76/287)
 AG128_1
 AG128_2
 AGB128_1
@@ -213,14 +213,14 @@ SNAK8_1
 SPINE3_1
 SPINE3_2
 SPINE4_1
-STEP03
-STEP04
-STEP05
-STEP06
+STEP03			Chex 3
+STEP04			Chex 3
+STEP05			Chex 3
+STEP06			Chex 3
 STEP07			frozenLake
 STEP08
 STEP09
-STEP10
+STEP10			Chex 3
 SUPPORT2
 SW11_1			frozenLake
 SW11_2			frozenLake
@@ -301,7 +301,7 @@ W28_7
 W28_8
 W31_1
 W32_1
-W32_4
+W32_4			Chex 3
 W33_5
 W33_7
 W33_8
@@ -407,7 +407,7 @@ WALL59_1
 WALL59_2
 WALL59_3
 WALL59_4
-WALL62_1		frozenLake
+WALL62_1		DeathEgg
 WALL62_2		frozenLake
 WALL63_1
 WALL64_2
@@ -497,7 +497,7 @@ WALL70_3
 WALL76_1
 WALL79_1
 
---Doom 2-- (12/182)
+--Doom 2-- (15/182)
 BFALL1			frozenLake
 BFALL2			frozenLake
 BFALL3			frozenLake
@@ -516,9 +516,9 @@ RW1_1
 RW1_2
 RW1_3
 RW1_4
-RW10_1			frozenLake
-RW10_2			frozenLake
-RW10_3
+RW10_1			DeathEgg
+RW10_2			DeathEgg
+RW10_3			DeathEgg
 RW10_4
 RW11_2
 RW11_3
@@ -604,8 +604,8 @@ RW37_2
 RW37_3
 RW37_4
 RW38_1
-RW38_2
-RW38_3
+RW38_2	
+RW38_3			DeathEgg
 RW38_4
 RW39_1
 RW39_2
@@ -625,7 +625,7 @@ RW45_1
 RW46_2
 RW46_3
 RW46_4
-RW47_1
+RW47_1			DeathEgg
 RW47_3
 RW47_4
 RW48_1
@@ -951,8 +951,8 @@ WFALL4		frozenLake
 WOOD
 YELLOW
 
-----FLATS---- (29/147)
---Universal-- (29/107)
+----FLATS---- (33/147)
+--Universal-- (33/107)
 BLOOD1		frozenLake
 BLOOD2		frozenLake
 BLOOD3		frozenLake
@@ -965,11 +965,11 @@ CEIL3_3
 CEIL3_4
 CEIL3_5
 CEIL3_6
-CEIL4_1
+CEIL4_1		Chex 3
 CEIL4_2
 CEIL4_3
-CEIL5_1
-CEIL5_2		Chex 3
+CEIL5_1		Chex 3
+CEIL5_2
 COMP01
 CONS1_1
 CONS1_5
@@ -999,7 +999,7 @@ FLAT3
 FLAT4
 FLAT5
 FLAT5_1
-FLAT5_2
+FLAT5_2		Chex 3
 FLAT5_3
 FLAT5_4
 FLAT5_5
@@ -1058,8 +1058,8 @@ STEP1		DeathEgg
 STEP2		DeathEgg
 TLITE6_1
 TLITE6_4
-TLITE6_5
-TLITE6_6
+TLITE6_5	DeathEgg
+TLITE6_6	DeathEgg
 
 --Doom 2-- (0/40)
 GRASS1
