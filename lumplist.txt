@@ -1,5 +1,5 @@
-----SPRITES---- (104/138)
---Doom-- (91/110)
+----SPRITES---- (?/138)
+--Doom-- (?/110)
 AMMO		Chex 3
 APBX		frozenLake
 APLS		frozenLake
@@ -110,7 +110,7 @@ TRED		frozenLake
 TROO		Chex 3
 YKEY		Chex 3
 YSKU		Chex 3
---Doom 2-- (13/28)
+--Doom 2-- (?/28)
 BBRN
 BOS2		Chex 3
 BRS1
@@ -140,8 +140,8 @@ TLMP		Chex 3
 TLP2		Chex 3
 VILE		Slimeinator (its a recolor of the Generation 2 replacement, which was a recolor and minor edit. It still should be replaced, though.)
 
-----PATCHES---- (108/800)
---Universal-- (76/287)
+----PATCHES---- (?/800)
+--Universal-- (?/287)
 AG128_1
 AG128_2
 AGB128_1
@@ -430,7 +430,7 @@ WLITA0
 WLITB0
 WLITC0
 
---Ultimate Doom/Doom 1-- (11/65)
+--Ultimate Doom/Doom 1-- (?/65)
 COMP01_1
 COMP01_5
 COMP01_6
@@ -497,7 +497,7 @@ WALL70_3
 WALL76_1
 WALL79_1
 
---Doom 2-- (15/182)
+--Doom 2-- (?/182)
 BFALL1			frozenLake
 BFALL2			frozenLake
 BFALL3			frozenLake
@@ -681,7 +681,7 @@ WOLF6
 WOLF7
 WOLF9
 
---TNT-- (2/195)
+--TNT-- (?/195)
 ALTAQUA
 ASPHALT
 BCRAT16			frozenLake
@@ -878,7 +878,7 @@ YELLITE2
 YELLITE3
 YELTNT
 
---Plutonia-- (4/71)
+--Plutonia-- (?/71)
 AROCK2
 AROCK3
 AROCK4
@@ -951,8 +951,8 @@ WFALL4		frozenLake
 WOOD
 YELLOW
 
-----FLATS---- (33/147)
---Universal-- (33/107)
+----FLATS---- (?/147)
+--Universal-- (?/107)
 BLOOD1		frozenLake
 BLOOD2		frozenLake
 BLOOD3		frozenLake
@@ -1029,7 +1029,7 @@ FLOOR5_4
 FLOOR6_1	Chex 3
 FLOOR6_2
 FLOOR7_1
-FLOOR7_2
+FLOOR7_2	Boingo
 FWATER1		Chex 3
 FWATER2		Chex 3
 FWATER3		Chex 3
@@ -1061,7 +1061,7 @@ TLITE6_4
 TLITE6_5	DeathEgg
 TLITE6_6	DeathEgg
 
---Doom 2-- (0/40)
+--Doom 2-- (?/40)
 GRASS1
 GRASS2
 GRNLITE1
